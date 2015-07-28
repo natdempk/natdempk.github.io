@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Your New Jekyll Site</title>
+    <title>natdempk.io</title>
     <description>Blogging about stuffs</description>
-    <link>http://your-blog-url.example.com</link>
-    <atom:link href="http://your-blog-url.example.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://blog.natdempk.io</link>
+    <atom:link href="http://blog.natdempk.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Untitled Mixtapes - HackBeanpot 2014</title>
@@ -14,8 +14,8 @@
 </description>
         
         <pubDate>Mon, 10 Feb 2014 07:00:00 -0500</pubDate>
-        <link>http://your-blog-url.example.com/2014/untitled-mixtapes-hackbeanpot-2014/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2014/untitled-mixtapes-hackbeanpot-2014/</guid>
+        <link>http://blog.natdempk.io/2014/untitled-mixtapes-hackbeanpot-2014/</link>
+        <guid isPermaLink="true">http://blog.natdempk.io/2014/untitled-mixtapes-hackbeanpot-2014/</guid>
       </item>
     
   </channel>
