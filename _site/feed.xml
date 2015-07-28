@@ -7,16 +7,15 @@
     <atom:link href="http://your-blog-url.example.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Welcome to Jekyll!</title>
+        <title>Untitled Mixtapes - HackBeanpot 2014</title>
         
         
-          <description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+          <description>&lt;p&gt;This weekend I participated in a 48 hour hackathon for Boston-area college students called &lt;a href=&quot;http://hackbeanpot.com/&quot;&gt;HackBeanpot&lt;/a&gt; with &lt;a href=&quot;https://twitter.com/golf1052&quot;&gt;Sanders Lauture&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/ZackHickman&quot;&gt;Zack Hickman&lt;/a&gt;. It was put on by some awesome people from Northeastern University who also do cool stuff like run &lt;a href=&quot;http://acm.ccs.neu.edu/&quot;&gt;NU ACM&lt;/a&gt; and &lt;a href=&quot;http://hacks.io/&quot;&gt;NU Hacks&lt;/a&gt;. They like to make stuff and create events for people who like to make stuff, which is super cool. Mad props to them. It was a ton of fun, and was run extremely well. If you’re a college student near Boston who makes stuff or wants to make stuff, you should definitely come next year.&lt;/p&gt;
 </description>
         
-        <pubDate>Sun, 10 Nov 2013 05:18:00 -0500</pubDate>
-        <link>http://your-blog-url.example.com/2013/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2013/welcome-to-jekyll/</guid>
+        <pubDate>Mon, 10 Feb 2014 07:00:00 -0500</pubDate>
+        <link>http://your-blog-url.example.com/2014/untitled-mixtapes-hackbeanpot-2014/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/2014/untitled-mixtapes-hackbeanpot-2014/</guid>
       </item>
     
   </channel>
