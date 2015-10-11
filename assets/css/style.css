@@ -348,7 +348,7 @@ img {
 /*=========================================
 Post List
 =========================================== */
-#post-list,#archive-list {
+#archive-list {
 	margin-top: 100px;
 }
 
@@ -383,6 +383,54 @@ Post List
 	border-top: 1px solid #eee;
 	margin-top: 20px;
 	padding-top: 100px;
+}
+
+/*=========================================
+Project List
+=========================================== */
+/*#project-list {*/
+	/*margin-top: 100px;*/
+/*}*/
+
+#project-list li,#archive-list li {
+	list-style-type: none;
+}
+
+#project-list li:last-child {
+	margin-bottom: 0;
+}
+
+#project-list li+li {
+	padding-top: 20px;
+	border-top: 1px solid #eee;
+}
+
+#project-list a {
+	color: #333;
+	display: block;
+	font: bold 19px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+}
+
+#project-list .dates {
+	float: right;
+	position: relative;
+	top: 1px;
+	font: 300 17px/1.8 "Helvetica Neue",helvetica,Arial,sans-serif;
+	color: #bbb;
+}
+
+#project-list-footer {
+	border-top: 1px solid #eee;
+	margin-top: 20px;
+	padding-top: 100px;
+}
+
+.project-description {
+    padding-left: 5px;
+}
+
+.project-image {
+    /*height: 270px;*/
 }
 
 #archive-link {

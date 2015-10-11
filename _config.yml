@@ -1,42 +1,51 @@
 name: natdempk.io
-description: Thoughts about life and computer science
+description: 
 meta_description: "natdempk.io "
 
 aboutPage: true
+projectsPage: true
 
 markdown: redcarpet
 highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://blog.natdempk.io'
+domain_name: 'http://natdempk.io'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://blog.natdempk.io'
+url:            'http://natdempk.io'
 author:         'Nat Dempkowski'
 authorTwitter:  'natdempk'
 
 permalink:       /:year/:title/
 
+collections:
+  projects:
+    output: true
+    permaline: /project/:path/
+
 defaults:
-    -
-        scope:
-            path: "" # empty string for all files
-            type: pages
-        values:
-            layout: default
-    -
-        scope:
-            path: "" # empty string for all files
-            type: posts
-        values:
-            layout: post
-    -
-        scope:
-            path: "" # empty string for all files
-            type: drafts
-        values:
-            layout: post
+    - scope:
+        path: "" # empty string for all files
+        type: pages
+      values:
+        layout: default
+    - scope:
+        path: "" # empty string for all files
+        type: posts
+      values:
+        layout: post
+    - scope:
+        path: "" # empty string for all files
+        type: drafts
+      values:
+        layout: post
+    - scope:
+        path: ""
+        type: projects
+      values:
+        layout: project
+        

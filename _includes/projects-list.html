@@ -1,0 +1,10 @@
+<ul id="project-list">
+    {% for project in site.projects %}
+        <li>
+            <a href='{{ project.link }}'><aside class="dates">{{ project.date | date:"%b '%y" }}</aside></a>
+            <a href='{{ project.link }}'>{{ project.title }} </a>
+            <p class="project-description">{{ project.description }}</p>
+            <img src='/assets/images/projects/{{ project.image }}' class="project-image" />
+        </li>
+    {% endfor %}
+</ul>
