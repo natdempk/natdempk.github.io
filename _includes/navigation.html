@@ -8,11 +8,17 @@
             <a href='{{ site.baseurl }}about'>About </a>
         {% endif %}
     {% endif %}
-    
-    {% if page.url != "/projects/" %}
-        {% if site.projectsPage %}
-            <a href='{{ site.baseurl }}projects'>Projects </a>
+
+    {% if page.url != "/blog/" %}
+        {% if site.blog %}
+            <a href='{{ site.baseurl }}blog'>Blog </a>
         {% endif %}
     {% endif %}
-    <a class="cta" href="{{ site.baseurl }}feed.xml">Subscribe</a>
+    
+    {% if page.url != "/projects/" %}
+      {% if site.projectsPage %}
+          <a href='{{ site.baseurl }}projects'>Projects </a>
+      {% endif %}
+    {% endif %}
+    <a class="cta" href="{{ site.baseurl }}feed.xml">RSS Feed</a>
 </nav>

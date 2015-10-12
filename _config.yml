@@ -2,13 +2,15 @@ name: natdempk.io
 description: 
 meta_description: "natdempk.io "
 
-aboutPage: true
+aboutPage: false
 projectsPage: true
+blog: true
 
 markdown: redcarpet
 highlighter: pygments
 
 paginate: 20
+paginate_path: "/blog/page:num"
 baseurl: /
 domain_name: 'http://natdempk.io'
 google_analytics: 'UA-XXXXXXXX-X'
