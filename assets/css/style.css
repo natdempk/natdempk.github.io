@@ -352,6 +352,9 @@ Post List
 	margin-top: 100px;
 }
 
+#post-list {
+}
+
 #post-list li,#archive-list li {
 	list-style-type: none;
 }

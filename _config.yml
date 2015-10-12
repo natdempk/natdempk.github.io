@@ -22,7 +22,7 @@ url:            'http://natdempk.io'
 author:         'Nat Dempkowski'
 authorTwitter:  'natdempk'
 
-permalink:       /:year/:title/
+permalink:       /blog/:year/:title/
 
 collections:
   projects:
