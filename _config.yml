@@ -1,6 +1,6 @@
 name: natdempk.io - Nat Dempkowski
 description: 
-meta_description: "natdempk.io "
+meta_description: "Software developer, CS student at Northeastern University and hacker"
 
 aboutPage: false
 projectsPage: true
@@ -23,6 +23,9 @@ author:         'Nat Dempkowski'
 authorTwitter:  'natdempk'
 
 permalink:       /blog/:year/:title/
+
+gems:
+    - jekyll-sitemap
 
 collections:
   projects:
