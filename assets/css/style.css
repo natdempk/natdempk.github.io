@@ -185,7 +185,9 @@ em, i { font-style: italic; }
 	color: #aaa;
 }
 
-
+.home {
+    text-align: justify;
+}
 
 .home h1 {
 	font-size: 30px;
@@ -430,6 +432,7 @@ Project List
 
 .project-description {
     padding-left: 5px;
+    text-align: justify;
 }
 
 .project-image {
@@ -470,6 +473,7 @@ Project List
 
 .post {
 	margin: 80px 0 0 0;
+    text-align: justify;
 }
 
 #post-meta {
