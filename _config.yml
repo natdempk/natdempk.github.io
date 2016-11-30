@@ -6,7 +6,7 @@ aboutPage: false
 projectsPage: true
 blog: true
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 paginate: 20
