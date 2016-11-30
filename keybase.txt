@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/natdempk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://natdempk.io
+  * I am natdempk (https://keybase.io/natdempk) on keybase.
+  * I have a public key ASB542QV6iumvYZ5Kb2TEK3m4p7qHUyEYUU7H4VtpxJllQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012079e36415ea2ba6bd867929bd9310ade6e29eea1d4c8461453b1f856da71265950a",
+            "host": "keybase.io",
+            "kid": "012079e36415ea2ba6bd867929bd9310ade6e29eea1d4c8461453b1f856da71265950a",
+            "uid": "2022ecf889b102a2f5a5537e2e3f4f19",
+            "username": "natdempk"
+        },
+        "service": {
+            "hostname": "natdempk.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1480472486,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1480472400,
+        "hash": "97c0262da6d0bbbd184a01220448686e58a7b7af9a3c551dd13d97f6802c2ec6b753c79e9dae0a37917d3d12dd52f54444e23b345793440d6bb1d6ca122b59a3",
+        "seqno": 741115
+    },
+    "prev": "eb1637749a1c1d9d4dab765b571eb03fb376463620a25126c9a3e251e7b22917",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeeNkFeorpr2GeSm9kxCt5uKe6h1MhGFFOx+FbacSZZUKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzllMzY0MTVlYTJiYTZiZDg2NzkyOWJkOTMxMGFkZTZlMjllZWExZDRjODQ2MTQ1M2IxZjg1NmRhNzEyNjU5NTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzllMzY0MTVlYTJiYTZiZDg2NzkyOWJkOTMxMGFkZTZlMjllZWExZDRjODQ2MTQ1M2IxZjg1NmRhNzEyNjU5NTBhIiwidWlkIjoiMjAyMmVjZjg4OWIxMDJhMmY1YTU1MzdlMmUzZjRmMTkiLCJ1c2VybmFtZSI6Im5hdGRlbXBrIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJuYXRkZW1way5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDgwNDcyNDg2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODA0NzI0MDAsImhhc2giOiI5N2MwMjYyZGE2ZDBiYmJkMTg0YTAxMjIwNDQ4Njg2ZTU4YTdiN2FmOWEzYzU1MWRkMTNkOTdmNjgwMmMyZWM2Yjc1M2M3OWU5ZGFlMGEzNzkxN2QzZDEyZGQ1MmY1NDQ0NGUyM2IzNDU3OTM0NDBkNmJiMWQ2Y2ExMjJiNTlhMyIsInNlcW5vIjo3NDExMTV9LCJwcmV2IjoiZWIxNjM3NzQ5YTFjMWQ5ZDRkYWI3NjViNTcxZWIwM2ZiMzc2NDYzNjIwYTI1MTI2YzlhM2UyNTFlN2IyMjkxNyIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxED/MuNuCfNqZWE4riL4Q83wAHt0FRavUmrVHYOwS9vWSO/geJEAn/c/RDwO279e46GTFiw6Jy6m5uSc+whiFBUDqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgDMIQpyYRqWrS3m5lzUIATHgmlHYNkMC6OSBvbgU9ilejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/natdempk
+
+==================================================================
