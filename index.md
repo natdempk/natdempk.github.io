@@ -2,9 +2,9 @@
 profile: true
 layout: default
 ---
-I'm a fifth year Computer Science student currently enrolled at Northeastern University.
+I'm currently a Senior Software Engineer at [HubSpot](https://www.hubspot.com) working on their Email backend. This involves writing scalable Java services and woking with a bunch of "big data" systems like Hadoop, HBase, Kafka, and ElasticSearch.
 
-I've spent my first two co-ops doing backend programming at Akamai Technologies and web application development at InsightSquared. I spent my third co-op at HubSpot working on their email backend, and I'll be going back there full-time after I graduate.
+In the past I've also worked as a co-op at [InsightSquared](http://www.insightsquared.com) doing web application development in Python and at [Akamai](https://www.akamai.com) doing general backend programming in Python.
 
 I encourage you to check out my [projects](/projects/), [GitHub](https://github.com/natdempk), [resume](/assets/pdf/Resume Nathaniel Dempkowski 2015-10-12.pdf), or other online profiles using the icons above.
 
